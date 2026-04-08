@@ -1,0 +1,16 @@
+{
+  "title": "Fictional E.E. Cummings Letters Archive",
+  "totalLetters": 915,
+  "requestedLettersPerYear": 15,
+  "years": {
+    "start": 1894,
+    "end": 1954,
+    "count": 61
+  },
+  "generation": {
+    "aiCalls": 122,
+    "parallelConcurrency": 10,
+    "batchSize": 10
+  },
+  "disclaimer": "All letters in this repository are fictional creative works inspired by the style of E.E. Cummings and are not authentic historical documents."
+}
